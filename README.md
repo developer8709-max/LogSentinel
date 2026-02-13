@@ -27,30 +27,3 @@ administrative security monitoring.
 
 This project is inspired by real enterprise SOC & SIEM systems.
 
----
-
-## 🇮🇳 सरल हिन्दी में
-
-LogSentinel Linux ke system logs ko read karta hai aur check karta hai:
-
-- kaun baar-baar galat password se login try kar raha hai
-- kaun user bahut zyada sudo use kar raha hai
-- kya koi user dono jagah suspicious behaviour dikha raha hai
-
-Aur phir batata hai:
-
-👉 system me koi real security incident ho sakta hai ya nahi.
-
----
-
-## ⚙️ Main Features
-
-- 👤 SSH failed login detection
-- 🔐 sudo usage monitoring
-- 🔄 SSH + sudo correlation
-- 🧾 suspicious syslog activity scan
-- 📄 incident report generation
-
----
-
-## 🧩 Project Architecture
